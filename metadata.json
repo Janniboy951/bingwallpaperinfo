@@ -1,0 +1,27 @@
+{
+    "KPackageStructure": "Plasma/Applet",
+    "KPlugin": {
+        "Authors": [
+            {
+                "Email": "mail@j-plis.de",
+                "Name": "Jan Plischke",
+                "Name[x-test]": "xxJan Plischkexx"
+            }
+        ],
+        "BugReportUrl": "https://github.com/PlisJan/bingwallpaperinfo/issues",
+        "Category": "System Information",
+        "Description": "Show current bing wallpaper title",
+        "FormFactors": [
+            "tablet",
+            "handset",
+            "desktop"
+        ],
+        "Icon": "viewimage",
+        "Id": "com.github.PlisJan.bingwallpaperinfo",
+        "License": "GPL-2.0+",
+        "Name": "Bing Wallpaper Info",
+        "Website": "https://github.com/PlisJan/bingwallpaperinfo"
+    },
+    "X-KDE-ParentApp": "org.kde.plasmashell",
+    "X-Plasma-API-Minimum-Version": "6.0"
+}
